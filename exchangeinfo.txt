@@ -5,3 +5,10 @@ http://www.ibm.com/developerworks/cn/java/j-lo-junit-src/
 javadoc viewer
 
 http://www.docjar.com/
+
+abstract class and interface
+
+http://www.cnblogs.com/dolphin0520/p/3811437.html
+http://bbs.csdn.net/topics/330148155?page=2
+http://bbs.csdn.net/topics/330144704
+http://mybeautiful.iteye.com/blog/628672
