@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=vmmsdos
+Exec=sh  /home/gogetter/myscripts/vm-msdos.sh
+Icon=/home/gogetter/Pictures/icon/msdos.png
+Info="virtualmachine"
+Categories=GTK
+Comment="Gtk+ based like QQ" 
+Terminal=false
+Type=Application
